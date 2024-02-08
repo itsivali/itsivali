@@ -13,7 +13,7 @@ I am a seasoned Software Engineer with a rich background in backend development,
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsivali&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=itsivali&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=itsivali&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
@@ -24,4 +24,3 @@ I am a seasoned Software Engineer with a rich background in backend development,
 ---
 [![](https://visitcount.itsvg.in/api?id=itsivali&icon=6&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
